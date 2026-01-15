@@ -1,10 +1,11 @@
 flask
 flask-cors
-python-dotenv
-requests
 numpy
-torch
 joblib
-scikit-learn
+torch
 xgboost
+python-dotenv
 gunicorn
+scikit-learn
+scapy
+psutil
